@@ -1,0 +1,41 @@
+{
+  "Regions" :
+  [
+    {
+      "regiond_id": 1,
+      "region_name": "us-west",
+      "display_name": "US-West",
+      "description": "Region containing zones in Western United States"
+    },
+    {
+      "regiond_id": 2,
+      "region_name": "us-east",
+      "display_name": "US-East",
+      "description": "Region containing zones in Eastern United States"
+    },
+    {
+      "regiond_id": 3,
+      "region_name": "us-central",
+      "display_name": "US-Central",
+      "description": "Region containing zones in Central United States"
+    },
+    {
+      "regiond_id": 4,
+      "region_name": "eu",
+      "display_name": "Europe",
+      "description": "Region containing zones in Europe"
+    },
+    {
+      "regiond_id": 5,
+      "region_name": "asia-east",
+      "display_name": "Asia-East",
+      "description": "Region containing zones in Eastern Asia"
+    },
+    {
+      "regiond_id": 6,
+      "region_name": "asia-south",
+      "display_name": "Asia-South",
+      "description": "Region containing zones in South Asia"
+    }
+  ]
+}
